@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Mac, a software developer studying at Tech Elevator in Cleveland, Ohio. Currently I'm working on learning C# and .Net. 
+In my free time I work on programming games to keep my skills sharp.
+
 <!--
 **Veroh1/Veroh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
