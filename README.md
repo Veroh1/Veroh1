@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm Mac, a software developer studying at Tech Elevator in Cleveland, Ohio. Currently I'm working on learning C# and .Net. 
-In my free time I work on programming games to keep my skills sharp.
-
+I'm Mac, a software developer in Cleveland, Ohio working in C#/Typescript. 
+- 🔭 I’m currently working on an updated website for Carpe Noctum, a local vampire larp.
+- 🌱 I’m currently learning lower level languages: C, C++, Rust
+- 📫 How to reach me: Veroh on Discord
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: My dream side project is a card game archive of old card games that aren't played anymore.
 <!--
 **Veroh1/Veroh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
